@@ -1,0 +1,32 @@
+body {
+    background-size: cover;
+}
+
+.head {
+    margin: 0;
+    width: 100%;
+    line-height: 1.5;
+    font-size: 40px;
+}
+
+#start, #number, #status {
+    font-size: 20px;
+}
+
+.footer {
+    background-color: orange;
+    color: black;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    line-height: 2;
+    font-size: 20px;
+}
+
+canvas {
+    border: 5px solid yellow;
+    border-radius: 20px;
+    box-sizing: 5px 5px 5px yellow;
+    margin-top: 125px;
+}
